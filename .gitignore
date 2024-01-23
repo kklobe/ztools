@@ -1,0 +1,7 @@
+*.man
+*.o
+check
+infodump
+inforead
+pix2gif
+txd
